@@ -1,0 +1,112 @@
+package com.bsoft.office.hr.vo;
+
+import com.bsoft.office.common.annotation.OperLogFieldName;
+import com.fasterxml.jackson.annotation.JsonFormat;
+import lombok.Data;
+
+import java.io.Serializable;
+import java.util.Date;
+
+/**
+ * @Author zhanglf
+ * @Date 2020-12-08 15:51
+ * @Version 1.0
+ * 劳动合同续签申请视图
+ */
+@Data
+public class LaborContractApplyViewVO{
+    @OperLogFieldName(value = "ID")
+    private Integer id;//主键
+    @OperLogFieldName(value = "工号")
+    private String personId;//工号
+    @JsonFormat(pattern="yyyy-MM-dd",timezone = "GMT+8")
+    @OperLogFieldName(value = "劳动合同续签开始日期")
+    private Date renewalStartDate;//劳动合同续签开始日期
+    @JsonFormat(pattern="yyyy-MM-dd",timezone = "GMT+8")
+    @OperLogFieldName(value = "劳动合同续签结束日期")
+    private Date renewalEndDate;//劳动合同续签结束日期
+    @OperLogFieldName(value = "备注")
+    private String remark;//备注
+    @OperLogFieldName(value = "大区审核标志")
+    private Integer areaAudit;//大区审核
+    @OperLogFieldName(value = "大区审核人工号")
+    private String areaAuditor;//大区审核人
+    @OperLogFieldName(value = "大区审核人姓名")
+    private String areaAuditorName;//大区审核人姓名
+    @JsonFormat(pattern="yyyy-MM-dd",timezone = "GMT+8")
+    @OperLogFieldName(value = "大区审核日期")
+    private Date areaAuditDate;//大区审核日期
+    @OperLogFieldName(value = "人事审核标志")
+    private Integer hrAudit;//人事审核
+    @OperLogFieldName(value = "人事审核人工号")
+    private String hrAuditor;//人事审核人
+    @OperLogFieldName(value = "人事审核人姓名")
+    private String hrAuditorName;//人事审核人姓名
+    @JsonFormat(pattern="yyyy-MM-dd",timezone = "GMT+8")
+    @OperLogFieldName(value = "人事审核日期")
+    private Date hrAuditDate;//人事审核日期
+    @OperLogFieldName(value = "人事审核意见")
+    private String hrOpinion;//人事审核意见
+    @OperLogFieldName(value = "部门审核标志")
+    private Integer deptAudit;//部门审核标志 1.同意 2.不同意
+    @OperLogFieldName(value = "部门审核人工号")
+    private String deptAuditor;//部门审核人
+    @OperLogFieldName(value = "部门审核人姓名")
+    private String deptAuditorName;//部门审核人姓名
+    @JsonFormat(pattern="yyyy-MM-dd",timezone = "GMT+8")
+    @OperLogFieldName(value = "部门审核日期")
+    private Date deptAuditDate;//部门审核日期
+    @OperLogFieldName(value = "部门审核意见")
+    private String deptOpinion;//部门审核人意见
+    @OperLogFieldName(value = "姓名")
+    private String personName;//姓名
+    @OperLogFieldName(value = "签订单位")
+    private Integer signUnit;//签订单位
+    @OperLogFieldName(value = "签订单位名称")
+    private String signUnitName;//签订单位
+    @OperLogFieldName(value = "岗位")
+    private String post;//岗位
+    @OperLogFieldName(value = "部门")
+    private String dept;//部门
+    @JsonFormat(pattern="yyyy-MM-dd",timezone = "GMT+8")
+    @OperLogFieldName(value = "入职时间")
+    private Date inDate;//入职时间
+    @JsonFormat(pattern="yyyy-MM-dd",timezone = "GMT+8")
+    @OperLogFieldName(value = "劳动合同到期时间")
+    private Date endDate;//劳动合同到期时间
+    @OperLogFieldName(value = "年度绩效")
+    private String evaluationGrade;//年度绩效
+    @OperLogFieldName(value = "岗位序列")
+    private String sequence;//岗位序列
+    @OperLogFieldName(value = "评定职级")
+    private String specialRank;//评定职级
+    @OperLogFieldName(value = "流程实例ID")
+    private String processInstanceId;//流程实例id
+    @OperLogFieldName(value = "审核状态")
+    private Integer status;//审核状态 1.审核中 2.已审核
+    @OperLogFieldName(value = "续签年限")
+    private Integer renewalYear;//续签年限
+    @OperLogFieldName(value = "离职申请单")
+    private Integer quitApplyId;//离职申请单
+    @OperLogFieldName(value = "任务ID")
+    private String taskId;//任务id
+    @OperLogFieldName(value = "是否已读")
+    private Boolean readFlag;//是否已读
+    @OperLogFieldName(value = "任务节点KEY")
+    private String taskDefineKey;//任务节点key
+    /** 是否是知会*/
+    @OperLogFieldName(value = "知会标志")
+    private Integer notifyFlag;
+    /** 经办人*/
+    @OperLogFieldName(value = "经办人工号")
+    private String dealPerson;
+    /** 经办人姓名*/
+    @OperLogFieldName(value = "经办人姓名")
+    private String dealPersonName;
+    /** 经办时间*/
+    @JsonFormat(pattern="yyyy-MM-dd",timezone = "GMT+8")
+    @OperLogFieldName(value = "经办时间")
+    private String dealDate;
+
+
+}

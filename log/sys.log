@@ -1,0 +1,16 @@
+2020-01-15 09:55:23,381 INFO (StartupInfoLogger.java:55)- Starting BsoftStarterApplication on DESKTOP-AHBITAO with PID 16748 (D:\IdeaProjects\bsoft_office_server\bsoft-starter\target\classes started by Administrator in D:\IdeaProjects\bsoft_office_server)
+2020-01-15 09:55:23,381 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 09:55:23,381 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-01-15 09:55:27,523 INFO (StartupInfoLogger.java:61)- Started BsoftStarterApplication in 5.564 seconds (JVM running for 8.952)
+2020-01-15 10:01:58,781 INFO (StartupInfoLogger.java:55)- Starting BsoftStarterApplication on DESKTOP-AHBITAO with PID 10204 (D:\IdeaProjects\bsoft_office_server\bsoft-starter\target\classes started by Administrator in D:\IdeaProjects\bsoft_office_server)
+2020-01-15 10:01:58,781 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 10:01:58,781 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-01-15 10:02:02,641 INFO (StartupInfoLogger.java:61)- Started BsoftStarterApplication in 4.821 seconds (JVM running for 7.466)
+2020-01-15 10:03:14,665 INFO (StartupInfoLogger.java:55)- Starting BsoftStarterApplication on DESKTOP-AHBITAO with PID 4152 (D:\IdeaProjects\bsoft_office_server\bsoft-starter\target\classes started by Administrator in D:\IdeaProjects\bsoft_office_server)
+2020-01-15 10:03:14,665 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 10:03:14,665 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-01-15 10:03:18,478 INFO (StartupInfoLogger.java:61)- Started BsoftStarterApplication in 4.784 seconds (JVM running for 7.039)
+2020-01-15 11:12:38,242 INFO (StartupInfoLogger.java:55)- Starting BsoftStarterApplication on DESKTOP-5J5BK2P with PID 6884 (E:\workplace\idea\bsoft-office-server\bsoft-starter\target\classes started by 小秋叶丶 in E:\workplace\idea\bsoft-office-server)
+2020-01-15 11:12:38,289 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-15 11:12:38,289 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-01-15 11:12:44,585 INFO (StartupInfoLogger.java:61)- Started BsoftStarterApplication in 8.203 seconds (JVM running for 15.953)

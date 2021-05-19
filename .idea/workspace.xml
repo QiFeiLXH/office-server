@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="729a44ac-bf55-4938-8296-d072b6994627" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bsoft-office-server.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bsoft-office-server.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bsoft-starter/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bsoft-starter/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/sys.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/sys.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/maven" />
+        <option name="userSettingsFile" value="E:\maven\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WPTA7pNE9lQhGSBD79fgi0ktMb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bsoft.common.spring" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\bsoft_office_server\bsoft-common\src\main\java\com\bsoft\common" />
+      <recent name="D:\IdeaProjects\bsoft_office_server\bsoft-starter\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BsoftStarterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bsoft-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bsoft.BsoftStarterApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\小秋叶丶\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\workplace\idea\bsoft-office-server" />
+          <option name="myCopyRoot" value="E:\workplace\idea\bsoft-office-server" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="E:\workplace\idea\bsoft-office-server" />
+          <option name="myCopyRoot" value="E:\workplace\idea\bsoft-office-server" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="729a44ac-bf55-4938-8296-d072b6994627" name="Default Changelist" comment="" />
+      <created>1579050083859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579050083859</updated>
+      <workItem from="1579050087276" duration="4126000" />
+      <workItem from="1579054707499" duration="1919000" />
+      <workItem from="1579057728812" duration="593000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1579055314465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579055314465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1013" y="379" key="#Inspections" timestamp="1579051283540">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1013" y="379" key="#Inspections/0.0.2560.1400@0.0.2560.1400" timestamp="1579051283540" />
+    <state x="1296" y="378" key="#Project_Structure" timestamp="1579050674829">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1296" y="378" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1579050674829" />
+    <state x="875" y="376" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579051928957">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="875" y="376" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579051928957" />
+    <state x="877" y="290" key="CommitChangelistDialog2" timestamp="1579058352648">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="877" y="290" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1579058352648" />
+    <state x="1538" y="398" key="FileChooserDialogImpl" timestamp="1579058026904">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1538" y="398" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1579058026904" />
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom" timestamp="1579057954696">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579057954696" />
+    <state width="2517" height="492" key="GridCell.Tab.0.center" timestamp="1579057954696">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579057954696" />
+    <state width="2517" height="492" key="GridCell.Tab.0.left" timestamp="1579057954681">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579057954681" />
+    <state width="2517" height="492" key="GridCell.Tab.0.right" timestamp="1579057954696">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579057954696" />
+    <state width="1899" height="379" key="GridCell.Tab.1.bottom" timestamp="1579054331519">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="379" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579054331519" />
+    <state width="1899" height="379" key="GridCell.Tab.1.center" timestamp="1579054331519">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="379" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579054331519" />
+    <state width="1899" height="379" key="GridCell.Tab.1.left" timestamp="1579054331519">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="379" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579054331519" />
+    <state width="1899" height="379" key="GridCell.Tab.1.right" timestamp="1579054331519">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="379" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579054331519" />
+    <state width="1899" height="379" key="GridCell.Tab.2.bottom" timestamp="1579054331519">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="379" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1579054331519" />
+    <state width="1899" height="379" key="GridCell.Tab.2.center" timestamp="1579054331519">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="379" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1579054331519" />
+    <state width="1899" height="379" key="GridCell.Tab.2.left" timestamp="1579054331519">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="379" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1579054331519" />
+    <state width="1899" height="379" key="GridCell.Tab.2.right" timestamp="1579054331519">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="379" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1579054331519" />
+    <state x="949" y="354" key="Maven.ArtifactSearchDialog" timestamp="1579053268213">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="949" y="354" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1579053268213" />
+    <state x="609" y="301" key="SettingsEditor" timestamp="1579058343142">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="609" y="301" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1579058343142" />
+    <state x="1093" y="563" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579055325416">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1093" y="563" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1579055325416" />
+    <state x="654" y="404" key="new project wizard" timestamp="1579050341517">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="654" y="404" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1579050341517" />
+  </component>
+</project>
